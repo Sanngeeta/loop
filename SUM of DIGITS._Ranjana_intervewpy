@@ -1,0 +1,9 @@
+# num=int(input("Enter the number:"))
+# i=0
+# while num>0:
+#     k=num%10
+#     i=i+k
+#     num=num//10
+# print(i)
+
+
